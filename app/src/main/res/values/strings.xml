@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IntentBobby</string>
+    <string name="move_activity">PINDAH AKTIVITI</string>
+    <string name="move_with_data">PINDAH AKTIVITI DENGAN DATA</string>
+    <string name="dial_number">PANGGIL TELEPON</string>
+    <string name="move_with_result">PINDAH AKTIVITI UNTUK RESULT</string>
+    <string name="result_from_activity">HASIL DARI AKTIVITI</string>
+    <string name="chose_game">PILIH GAME KESUKAANMU</string>
+    <string name="_mL">Mobile Legend</string>
+    <string name="_ff">Free Fire</string>
+    <string name="_pubg">PUBG</string>
+    <string name="chose">PILIH</string>
+    <string name="data_received">DATA DITERIMA</string>
+    <string name="this_ismove_activity">INI PINDAH AKTIVITI</string>
+    <string name="back_aktivity">KEMBALI AKTIVITI</string>
+</resources>
